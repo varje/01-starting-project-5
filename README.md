@@ -1,6 +1,6 @@
 # React demo exercise
 
-This is a demo project built as part of a [Udemy course](#https://www.udemy.com/course/react-the-complete-guide-incl-redux) on modern React development. The app is a simple store interface with products, a shopping cart, and basic state management.
+This is a demo project built as part of a [Udemy course](https://www.udemy.com/course/react-the-complete-guide-incl-redux) on modern React development. The app is a simple store interface with products, a shopping cart, and basic state management.
 
 ## Course
 
