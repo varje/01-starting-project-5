@@ -5,7 +5,6 @@ This is a demo project built as part of a [Udemy course](#https://www.udemy.com/
 ## Course
 
 > **Course Title:** Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!
-> **Link to course:** [Udemy Course Link](#https://www.udemy.com/course/react-the-complete-guide-incl-redux)
 
 ## Tech Stack
 
