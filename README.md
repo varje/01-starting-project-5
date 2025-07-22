@@ -9,7 +9,7 @@ React - The Complete Guide 2025 (incl. Next.js, Redux)
 ## Tech Stack
 
 - **React** (with functional components and hooks)
-- **Redux** (depending on version)
+- **Redux**
 
 ---
 
