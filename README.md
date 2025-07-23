@@ -17,7 +17,7 @@ React - The Complete Guide 2025 (incl. Next.js, Redux)
 
 ```bash
 # Clone the repo
-git clone [https://github.com/yourusername/react-store-demo.git](https://github.com/varje/01-starting-project-5)
+git clone (https://github.com/varje/01-starting-project-5](https://github.com/varje/01-starting-project-5)
 
 # Install dependencies
 npm install
