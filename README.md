@@ -13,7 +13,11 @@ React - The Complete Guide 2025 (incl. Next.js, Redux)
 
 ---
 
-## 📦 Installation
+## Access by web:
+[varje.github.io/01-starting-project-07](https://varje.github.io/01-starting-project-7/)
+
+
+## Installation
 
 ```bash
 # Clone the repo
