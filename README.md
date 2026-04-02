@@ -11,11 +11,6 @@ React - The Complete Guide 2025 (incl. Next.js, Redux)
 - **React** (with functional components and hooks)
 - **Redux**
 
----
-
-## Access by web:
-[varje.github.io/01-starting-project-5](https://varje.github.io/01-starting-project-5/)
-
 
 ## Installation
 
